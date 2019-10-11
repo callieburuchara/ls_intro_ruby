@@ -1,0 +1,1 @@
+Here are the projects--small and large--that I am learning during my Launch School learning process. It also includes small projects I've done through supplemental material, like Code Academy. 

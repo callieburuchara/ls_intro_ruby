@@ -1,1 +1,1 @@
-Here are the projects--small and large--that I am learning during my Launch School learning process. It also includes small projects I've done through supplemental material, like Code Academy. 
+This repository contains all of the exercises in the "Introduction to Programming with Ruby" book that was issued by Launch School. The exercises are organized by chapter title and then chronologically. 

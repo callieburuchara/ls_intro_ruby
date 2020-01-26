@@ -1,0 +1,1 @@
+Exception handling is how you can manage how your program responds to errors or "exceptions". This solves the problem of having your program halted with errors. You can have your program print/do something when an error/exception happens (better than an error message that doesn't make clear sense sometimes) and ALSO let your program keep going instead of getting halted. 

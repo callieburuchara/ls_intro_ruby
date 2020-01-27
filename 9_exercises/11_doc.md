@@ -1,0 +1,1 @@
+I honestly prefer ruby-doc.org. It might be because it was the first one I used and therefore the one I know how to navigate a lot better. I look at docs.ruby-lang.org sometimes. I really prefer the first one though. 
